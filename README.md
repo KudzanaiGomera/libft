@@ -1,2 +1,2 @@
-# library
- Updating libft
+# libft
+Reproducing  C library
